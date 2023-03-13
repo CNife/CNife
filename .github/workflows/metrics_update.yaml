@@ -3,11 +3,15 @@ on:
   schedule:
     - cron: "30 16 * * *"
   push:
-    branches: ["master", "main"]
+    branches:
+      - master
+  workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
