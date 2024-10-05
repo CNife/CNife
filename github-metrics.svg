@@ -1289,6 +1289,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1310,7 +1315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>soulteary/forever-coolshell</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">酷壳 - CoolShell 电子存档，🕯️ 谨纪念和保存陈皓先生的公开的技术分享内容，感恩皓叔对中文互联网，尤其是技术领域无私的分享。</div>
@@ -1363,7 +1368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nukesor/pueue</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1419,7 +1424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Canop/broot</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new way to see and navigate directory trees : https://dystroy.org/broot</div>
@@ -1472,7 +1477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rwv/chinese-dos-games</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎮 Chinese DOS games collections.</div>
@@ -1525,7 +1530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FiloSottile/mkcert</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple zero-config tool to make locally trusted development certificates with any names you'd like.</div>
@@ -1575,7 +1580,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2024, 00:44:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2024, 00:41:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
